@@ -140,7 +140,16 @@ nav button {
     color: var(--color-bg2);
 }
 
-
+nav input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 16px;
+    margin-right: 100px;
+    font-size: 17px;
+    border-radius: 10px;
+    outline: none;
+}
 /*----------End Of header------------*/
 header {
     position: relative;
